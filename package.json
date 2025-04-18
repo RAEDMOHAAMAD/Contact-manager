@@ -2,6 +2,8 @@
   "name": "contact-manager-web",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://raedmohaamad.github.io/Contact-manager",
+
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
